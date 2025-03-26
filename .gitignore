@@ -1,0 +1,14 @@
+# Byte-compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+.env/
+
+# Data folder (if you want to ignore raw data files)
+data/
+
+# Jupyter Notebook checkpoints (if any)
+.ipynb_checkpoints/
